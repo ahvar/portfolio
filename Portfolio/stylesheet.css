@@ -1,0 +1,56 @@
+@CHARSET "ISO-8859-1";
+body {
+    background-color: white;
+    background-image: url(images/star-clusters-67616_1920.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    font: bold 2.5em "Marko One", Georgia, serif;
+    color: gray;
+}
+
+h4 {
+    margin-left: 140px;
+}
+
+h3 {
+    margin-left: 99px;
+}
+
+p {
+    font: oblique bold small-caps 1.5em/1.8em Verdana, sans-serif;
+    color: black;
+}
+
+.container-fluid {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 48px;
+    margin-right: 0px;
+    background-color: transparent;
+}
+
+.page-header {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#name {
+    font-weight: bold;
+}
+
+.col-sm-2 .col-md-2 .col-lg-2 {
+    margin-left: 100px;
+}
+
+#facebook {
+    margin-top: 270px;
+}
+
+#linkedin {
+    margin-top: 270px;
+}
